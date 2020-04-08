@@ -10,8 +10,8 @@ var tip = d3.tip().attr("class", "d3-tip");
 // SVG wrapper and dimensions
 //==========================================================================================
 
-var svgWidth = 1000;
-var svgHeight = 1000;
+var svgWidth = 800;
+var svgHeight = 500;
 
 var margin = {
   top: 25,
